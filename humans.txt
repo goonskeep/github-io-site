@@ -2,7 +2,7 @@
 
 /* REPOSITORY */
 
-  https://github.com/goonskeep/website
+  https://github.com/goonskeep/goonskeep.github.io
 
 /* TEAM */
  

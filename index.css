@@ -147,6 +147,23 @@ body {
   flex: unset;
 }
 
+
+#final_photo {
+    display: block;
+    margin: auto;   
+}
+
+.fellas {
+    height: 600px;
+    max-height: 80vh;
+}
+  
+.subtitle {
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-style: italic;
+}
+
 /* ~ Indev ~ */
 
 .space-between-row {
