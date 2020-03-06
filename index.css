@@ -147,15 +147,14 @@ body {
   flex: unset;
 }
 
-
-#final_photo {
-    display: block;
-    margin: auto;   
+#final_photo, .fellas {
+  display: block;
+  margin: auto;
 }
 
 .fellas {
-    height: 600px;
-    max-height: 80vh;
+  width: 80vw;
+  max-width: 100%;
 }
   
 .subtitle {
